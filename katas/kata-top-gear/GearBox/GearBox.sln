@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GearBox", "GearBox\GearBox.csproj", "{ABDACD84-D596-4FA4-B424-4555B9C4C07B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GearBox.Tests", "GearBox.Tests\GearBox.Tests.csproj", "{D5B214DE-551F-41B2-9391-D8A3F2151004}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABDACD84-D596-4FA4-B424-4555B9C4C07B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABDACD84-D596-4FA4-B424-4555B9C4C07B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABDACD84-D596-4FA4-B424-4555B9C4C07B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABDACD84-D596-4FA4-B424-4555B9C4C07B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5B214DE-551F-41B2-9391-D8A3F2151004}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5B214DE-551F-41B2-9391-D8A3F2151004}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5B214DE-551F-41B2-9391-D8A3F2151004}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5B214DE-551F-41B2-9391-D8A3F2151004}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D51FF02-CD45-4AF1-AD62-CB82CA4D7442}
+	EndGlobalSection
+EndGlobal
