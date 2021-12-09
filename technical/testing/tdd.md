@@ -45,11 +45,6 @@ The TDD development cycle
 - [Sandro Mancuso - Outside In TDD part II](https://youtu.be/gs0rqDdz3ko)
 - [Sandro Mancuso - Outside In TDD part III](https://youtu.be/R9OAt9AOrzI)
 
-
-## Workshops
-
-- [Intro to Test-Driven Development](intro-to-tdd.pptx)
-
 ## Practice Katas
 
 - [String Calculator Kata](../../katas/kata-string-calculator.md)  
