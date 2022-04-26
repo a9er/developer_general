@@ -8,6 +8,7 @@
 * [Basic Coding](kata-foundational/foundational-kata-the-very-basics.md)
 * [Fizz Buzz](kata-foundational/foundational-kata-fizzbuzz.md)
 * [ABC](kata-foundational/foundational-kata-abc.md)
+* [Longest increasing sequence](kata-foundational/kata-longest-increasing-sequence.md)
 * [Blackjack](kata-foundational/foundational-kata-blackjack.md)
 * [Magic Year Calculator](kata-foundational/foundational-kata-magic-year.md)
 * [Tic Tac Toe](kata-tic-tac-toe/kata-tic-tac-toe.md)
